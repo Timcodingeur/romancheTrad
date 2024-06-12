@@ -1,0 +1,12 @@
+{{
+    "romanche_to_francais": {
+        "allegra": "salut",
+        "bain": "bien"
+    }
+
+{
+"francais_to_romanche": {
+    "salut": "allegra",
+    "bien": "bain"
+}
+}

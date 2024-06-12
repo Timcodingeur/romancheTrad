@@ -1,0 +1,47 @@
+{
+    "romanche_to_francais": {
+      "allegra": "salut",
+      "bain": "bien",
+      "tgau": "bonjour",
+      "co vossa tü?": "comment allez-vous?",
+      "tgei faschais vus?": "que faites-vous?",
+      "amih": "ami",
+      "familia": "famille",
+      "schuola": "école",
+      "baselgia": "église",
+      "padrin": "père",
+      "mumma": "mère",
+      "fegl": "fils",
+      "figlia": "fille",
+      "casa": "maison",
+      "prada": "pré",
+      "mun": "montagne",
+      "grisch": "gris",
+      "verd": "vert",
+      "blau": "bleu",
+      "cotschen": "rouge"
+    },
+    "francais_to_romanche": {
+      "salut": "allegra",
+      "bien": "bain",
+      "bonjour": "tgau",
+      "comment allez-vous?": "co vossa tü?",
+      "que faites-vous?": "tgei faschais vus?",
+      "ami": "amih",
+      "famille": "familia",
+      "école": "schuola",
+      "église": "baselgia",
+      "père": "padrin",
+      "mère": "mumma",
+      "fils": "fegl",
+      "fille": "figlia",
+      "maison": "casa",
+      "pré": "prada",
+      "montagne": "mun",
+      "gris": "grisch",
+      "vert": "verd",
+      "bleu": "blau",
+      "rouge": "cotschen"
+    }
+  }
+  
