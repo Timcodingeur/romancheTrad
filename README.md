@@ -23,8 +23,8 @@ Ce projet est un traducteur Romanche vers Français construit en utilisant Node.
 1. Clonez le dépôt :
 
     ```bash
-    git clone https://github.com/yourusername/romanche-to-french-translator.git
-    cd romanche-to-french-translator
+    git clone https://github.com/https://github.com/Timcodingeur/traducteur_romanche
+    cd traducteur_romanche
     ```
 
 2. Installez les dépendances :
@@ -39,7 +39,7 @@ Ce projet est un traducteur Romanche vers Français construit en utilisant Node.
 3. Démarrez le serveur de développement :
 
     ```bash
-    npm run dev
+    npm start
     ```
 
 4. Ouvrez votre navigateur et accédez à `http://localhost:3000`
