@@ -8,8 +8,6 @@ Ce projet est un traducteur Romanche vers Français construit en utilisant Node.
 - [Utilisation](#utilisation)
 - [Fonctionnalités](#fonctionnalités)
 - [Contribuer](#contribuer)
-- [Licence](#licence)
-- [Sécurité](#sécurité)
 
 ## Installation
 
@@ -67,11 +65,3 @@ Nous accueillons les contributions de la communauté. Pour contribuer, suivez ce
 4. Commitez vos modifications (`git commit -m 'Ajout de fonctionnalité'`).
 5. Poussez vers la branche (`git push origin feature/votre-nom-de-fonctionnalité`).
 6. Ouvrez une Pull Request.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-## Sécurité
-
-Pour les problèmes de sécurité, veuillez consulter le fichier [SECURITY.md](SECURITY.md).
