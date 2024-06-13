@@ -1,6 +1,6 @@
 # Traducteur Romanche-Français
 
-Ce projet est un traducteur Romanche vers Français construit en utilisant Node.js pour le backend et React pour le frontend. L'application permet aux utilisateurs de saisir du texte en Romanche et d'obtenir la traduction en Français.
+Ce projet est un traducteur Romanche-Français construit en utilisant Node.js pour le backend et React pour le frontend. L'application permet aux utilisateurs de saisir du texte en Romanche et d'obtenir la traduction en Français et inversement.
 
 ## Table des matières
 
@@ -13,8 +13,8 @@ Ce projet est un traducteur Romanche vers Français construit en utilisant Node.
 
 ### Prérequis
 
-- Node.js (v14 ou supérieur)
-- npm (v6 ou supérieur)
+- Node.js (v20.10.0 ou supérieur)
+- npm (v10.2.3 ou supérieur)
 
 ### Étapes
 
