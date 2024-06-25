@@ -1,5 +1,5 @@
 import React from 'react';
-import { BrowserRouter as Router, Route, Routes, Link } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes, NavLink } from 'react-router-dom';
 import './App.css';
 import Translator from './components/Translator';
 import History from './components/History';
@@ -12,10 +12,10 @@ function App() {
       <div className="App">
         <nav>
           <ul>
-            <li><Link to="/">Traducteur</Link></li>
-            <li><Link to="/history">Histoire</Link></li>
-            <li><Link to="/demography-geography">Démographie et Géographie</Link></li>
-            <li><Link to="/general-info">Informations Générales</Link></li>
+            <li><NavLink to="/" exact activeClassName="active">Traducteur</NavLink></li>
+            <li><NavLink to="/history" activeClassName="active">Histoire</NavLink></li>
+            <li><NavLink to="/demography-geography" activeClassName="active">Démographie et Géographie</NavLink></li>
+            <li><NavLink to="/general-info" activeClassName="active">Informations Générales</NavLink></li>
           </ul>
         </nav>
         <Routes>
