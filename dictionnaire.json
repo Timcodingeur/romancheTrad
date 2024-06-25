@@ -1,47 +1,39 @@
 {
-    "romanche_to_francais": {
-      "allegra": "salut",
-      "bain": "bien",
-      "tgau": "bonjour",
-      "co vossa tü?": "comment allez-vous?",
-      "tgei faschais vus?": "que faites-vous?",
-      "amih": "ami",
-      "familia": "famille",
-      "schuola": "école",
-      "baselgia": "église",
-      "padrin": "père",
-      "mumma": "mère",
-      "fegl": "fils",
-      "figlia": "fille",
-      "casa": "maison",
-      "prada": "pré",
-      "mun": "montagne",
-      "grisch": "gris",
-      "verd": "vert",
-      "blau": "bleu",
-      "cotschen": "rouge"
+  "words": [
+    {
+      "romanche": "chasa",
+      "francais": "maison",
+      "suisse_allemand": "Huus",
+      "allemand": "Haus",
+      "italien": "casa"
     },
-    "francais_to_romanche": {
-      "salut": "allegra",
-      "bien": "bain",
-      "bonjour": "tgau",
-      "comment allez-vous?": "co vossa tü?",
-      "que faites-vous?": "tgei faschais vus?",
-      "ami": "amih",
-      "famille": "familia",
-      "école": "schuola",
-      "église": "baselgia",
-      "père": "padrin",
-      "mère": "mumma",
-      "fils": "fegl",
-      "fille": "figlia",
-      "maison": "casa",
-      "pré": "prada",
-      "montagne": "mun",
-      "gris": "grisch",
-      "vert": "verd",
-      "bleu": "blau",
-      "rouge": "cotschen"
+    {
+      "romanche": "purtret",
+      "francais": "image",
+      "suisse_allemand": "Bild",
+      "allemand": "Bild",
+      "italien": "immagine"
+    },
+    {
+      "romanche": "tschêl",
+      "francais": "ciel",
+      "suisse_allemand": "Himmel",
+      "allemand": "Himmel",
+      "italien": "cielo"
+    },
+    {
+      "romanche": "chalur",
+      "francais": "chaleur",
+      "suisse_allemand": "Hitz",
+      "allemand": "Hitze",
+      "italien": "calore"
+    },
+    {
+      "romanche": "azur",
+      "francais": "azur",
+      "suisse_allemand": "Azur",
+      "allemand": "Azur",
+      "italien": "azzurro"
     }
-  }
-  
+  ]
+}

@@ -10,6 +10,30 @@ body {
   padding: 20px;
 }
 
+nav ul {
+  list-style: none;
+  padding: 0;
+}
+
+nav ul li {
+  display: inline;
+  margin-right: 10px;
+}
+
+nav ul li a {
+  text-decoration: none;
+  padding: 10px 20px;
+  border: 2px solid #16a085;
+  border-radius: 10px;
+  color: #16a085;
+  transition: background-color 0.3s, color 0.3s;
+}
+
+nav ul li a:hover {
+  background-color: #16a085;
+  color: #fff;
+}
+
 textarea {
   width: 80%;
   height: 100px;
@@ -44,14 +68,8 @@ select:focus, button:focus {
   border-color: #1abc9c;
 }
 
-h1 {
+h1, h2 {
   color: #2c3e50;
-}
-
-h2 {
-  color: #16a085;
-  text-align: left;
-  margin-left: 10%;
 }
 
 p {
@@ -75,4 +93,42 @@ p {
   max-width: 400px;
   border-radius: 10px;
   border: 2px solid #16a085;
+}
+
+.polysémie ul {
+  list-style-type: none;
+  padding-left: 0;
+}
+
+.polysémie li {
+  margin-bottom: 10px;
+  padding-left: 20px;
+  position: relative;
+}
+
+.polysémie li:before {
+  content: "•";
+  color: #000;
+  position: absolute;
+  left: 0;
+}
+
+/* Custom scrollbar styles */
+::-webkit-scrollbar {
+  width: 12px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+  border-radius: 10px;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #16a085;
+  border-radius: 10px;
+  border: 3px solid #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background-color: #1abc9c;
 }
