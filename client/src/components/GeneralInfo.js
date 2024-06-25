@@ -13,8 +13,10 @@ function GeneralInfo() {
         <p>
           La Suisse est l'une des économies les plus libérales du continent. Elle a l'un des PIB nominaux par habitant et de parité du pouvoir d'achat les plus élevés au monde, ainsi que l'indice de développement humain (IDH) le plus élevé de la planète (0,962). Elle est classée deuxième sur la liste des pays par espérance de vie, publiée par le DAES des Nations unies ; et est considérée comme l'un des pays les moins corrompus, et — pendant plusieurs années — comme le premier en termes de compétitivité économique et touristique, selon le Forum économique mondial.
         </p>
-        <img src={argentSuisse} alt="Argent Suisse" />
-        <img src={banqueNational} alt="Banque Nationale Suisse" />
+        <div className="image-container">
+          <img src={argentSuisse} alt="Argent Suisse" className="geo-image"/>
+          <img src={banqueNational} alt="Banque Nationale Suisse" className="geo-image"/>
+        </div>
       </div>
 
       <div className="national-day">
@@ -22,7 +24,7 @@ function GeneralInfo() {
         <p>
           La Fête nationale suisse célèbre chaque 1er août la fondation de la Confédération suisse grâce au pacte d'alliance, datée du mois d'août 1291, entre les trois cantons primitifs : Uri, Schwytz et Unterwald.
         </p>
-        <img src={feteNational} alt="Fête Nationale Suisse" />
+        <img src={feteNational} alt="Fête Nationale Suisse" className="geo-image"/>
       </div>
 
       <div className="toponymy">

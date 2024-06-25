@@ -3,12 +3,14 @@ import feteNational from '../images/feteNational.jpg';
 
 function History() {
   return (
-    <div>
+    <div className="history">
       <h2>Histoire de la Suisse</h2>
       <p>
         La Fête nationale suisse célèbre chaque 1er août la fondation de la Confédération suisse grâce au pacte d'alliance, datée du mois d'août 1291, entre les trois cantons primitifs : Uri, Schwytz et Unterwald.
       </p>
-      <img src={feteNational} alt="Fête Nationale Suisse" style={{width: '400px', height: 'auto'}} />
+      <div className="image-container">
+        <img src={feteNational} alt="Fête Nationale Suisse" />
+      </div>
       <p>
         La Suisse a une longue tradition de neutralité politique et militaire et n'a rejoint l'Organisation des Nations unies (ONU) qu'en 2002. Elle poursuit cependant une politique étrangère active et s'implique fréquemment dans des processus humanitaires et de construction de la paix dans le monde.
       </p>

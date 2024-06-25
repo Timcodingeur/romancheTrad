@@ -26,6 +26,7 @@ function Translator() {
   return (
     <div>
       <h1>Les langues de Suisse</h1>
+      <h2>traducteur</h2>
       <textarea
         value={text}
         onChange={(e) => setText(e.target.value)}
@@ -72,6 +73,7 @@ function Translator() {
         <p>
           Le romanche grison (RG), rumantsch grischun en romanche, est la forme unifiée et standardisée de la langue. Il a été créé et introduit par la Ligue romanche (Lia rumantscha) en 1982. Il est reconnu comme une langue officielle dans les Grisons depuis 1992 et son enseignement est encouragé dans presque toutes les écoles primaires depuis 2010. À présent, les manuels scolaires, les documents cantonaux et fédéraux ainsi que la majorité des publications en romanche sont écrits uniquement en romanche grison.
         </p>
+        <h2>Et le suisse allemand</h2>
       </div>
     </div>
   );

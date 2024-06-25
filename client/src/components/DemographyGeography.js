@@ -6,6 +6,7 @@ import paysageSuisse2 from '../images/paysageSuisse2.webp';
 function DemographyGeography() {
   return (
     <div>
+      <h1>Les langues de Suisse</h1>
       <h2>Démographie et Géographie de la Suisse</h2>
       
       <div className="geography">
@@ -13,8 +14,10 @@ function DemographyGeography() {
         <p>
           La Suisse est bordée par l'Allemagne au nord, l'Autriche et le Liechtenstein à l'est-nord-est, l'Italie au sud et au sud-est et la France à l'ouest. C'est un pays sans littoral, dont le Rhin, sécurisé par des traités internationaux, constitue l’unique accès direct à la mer. Le pays est géographiquement divisé entre les Alpes, qui occupent 60 % du territoire, le Plateau suisse et le Jura.
         </p>
-        <img src={paysageSuisse1} alt="Paysage de la Suisse 1" />
-        <img src={paysageSuisse2} alt="Paysage de la Suisse 2" />
+        <div className="image-container">
+          <img src={paysageSuisse1} alt="Paysage de la Suisse 1" className="geo-image"/>
+          <img src={paysageSuisse2} alt="Paysage de la Suisse 2" className="geo-image"/>
+        </div>
       </div>
 
       <div className="demography">
