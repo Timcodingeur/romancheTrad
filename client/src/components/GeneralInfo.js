@@ -62,17 +62,17 @@ function GeneralInfo() {
         <p>
           Confédération, avec ou sans majuscule, désigne trois concepts différents, qui correspondent chacun à un mot différent en allemand :
         </p>
-        <ul>
-          <li>
+        <p>
             <strong>Confédération</strong>, nom commun (allemand <em>Staatenbund</em>) : désigne un « État composé où chaque État-membre conserve son indépendance mais se soumet à un pouvoir central essentiellement constitué par un organisme de coordination dont les décisions doivent être prises à l'unanimité des États-membres ». La Suisse était initialement une confédération, une alliance d'États souverains ligués pour se prêter mutuellement secours. Au XIXe siècle, après l'échec de la République helvétique et face aux nombreux défauts du Pacte fédéral de 1815, des cantons considéraient que cette forme avait fait son temps. Ils ne voulaient cependant pas d'un État unitaire. Ils ont décidé de former un État fédéral, ce qui a été concrétisé par la Constitution fédérale de 1848.
-          </li>
-          <li>
+        </p>
+        <br/>
+        <p>
             <strong>La Confédération</strong>, nom propre (allemand <em>der Bund</em>) : le terme désigne l'État fédéral par opposition aux cantons, les États fédérés. L'État fédéral comprend en particulier l'administration fédérale avec à sa tête le Conseil fédéral, mais aussi l'Assemblée fédérale et les différents tribunaux fédéraux. La Confédération dispose de certaines compétences prévues par la Constitution, comme la monnaie ou l'armée, tandis que les cantons disposent de toutes les compétences non attribuées, comme la police, l'enseignement ou la santé.
-          </li>
-          <li>
+        </p>
+        <br/>
+        <p>
             <strong>La Confédération [suisse]</strong>, nom propre (allemand <em>die [Schweizerische] Eidgenossenschaft</em>) : nom officiel de l'État suisse, du pays, autrement dit de l'ensemble des 26 cantons et du peuple suisse. Le mot allemand Eidgenossenschaft n'est pas l'équivalent linguistique de confédération. Il est composé de Eid, serment devant Dieu, et Genosse, mot qui désigne jusqu'au milieu du XIXe siècle un compagnon, une personne partageant le même sort, les mêmes intérêts et étant du même rang social. On peut le rendre par « Alliance entre égaux scellée par un serment ». Ce terme ne décrit donc pas un régime particulier.
-          </li>
-        </ul>
+        </p>
       </div>
     </div>
   );
