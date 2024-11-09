@@ -1,31 +1,31 @@
-# Traducteur Romanche-Français
+# Romansh-French Translator
 
-Ce projet est un traducteur Romanche-Français construit en utilisant Node.js pour le backend et React pour le frontend. L'application permet aux utilisateurs de saisir du texte en Romanche et d'obtenir la traduction en Français et inversement.
+This project is a Romansh-French translator built using Node.js for the backend and React for the frontend. The application allows users to input text in Romansh and get the French translation, and vice versa.
 
-## Table des matières
+## Table of Contents
 
 - [Installation](#installation)
-- [Utilisation](#utilisation)
-- [Fonctionnalités](#fonctionnalités)
-- [Contribuer](#contribuer)
+- [Usage](#usage)
+- [Features](#features)
+- [Contributing](#contributing)
 
 ## Installation
 
-### Prérequis
+### Prerequisites
 
-- Node.js (v20.10.0 ou supérieur)
-- npm (v10.2.3 ou supérieur)
+- Node.js (v20.10.0 or higher)
+- npm (v10.2.3 or higher)
 
-### Étapes
+### Steps
 
-1. Clonez le dépôt :
+1. Clone the repository:
 
     ```bash
-    git clone https://github.com/https://github.com/Timcodingeur/traducteur_romanche
+    git clone https://github.com/Timcodingeur/traducteur_romanche
     cd traducteur_romanche
     ```
 
-2. Installez les dépendances :
+2. Install dependencies:
 
     ```bash
     npm install
@@ -34,34 +34,35 @@ Ce projet est un traducteur Romanche-Français construit en utilisant Node.js po
     cd ..
     ```
 
-3. Démarrez le serveur de développement :
+3. Start the development server:
 
     ```bash
     npm start
     ```
 
-4. Ouvrez votre navigateur et accédez à `http://localhost:3000`
+4. Open your browser and go to `http://localhost:3000`
 
-## Utilisation
+## Usage
 
-1. Ouvrez l'application dans votre navigateur.
-2. Entrez le texte en Romanche dans le champ de saisie.
-3. Cliquez sur le bouton "Traduire".
-4. Le texte traduit en Français s'affichera sous le champ de saisie.
+1. Open the application in your browser.
+2. Enter the text in Romansh in the input field.
+3. Click on the "Translate" button.
+4. The translated text in French will be displayed below the input field.
 
-## Fonctionnalités
+## Features
 
-- Traduction Romanche vers Français
-- Interface utilisateur simple et intuitive
-- Design responsive pour mobile et desktop
+- Translation between Romansh, French, English, German, and Italian (Swiss languages + English).
+- Simple and intuitive user interface.
+- Responsive design for both mobile and desktop.
 
-## Contribuer
+## Contributing
 
-Nous accueillons les contributions de la communauté. Pour contribuer, suivez ces étapes :
+We welcome contributions from the community. To contribute, follow these steps:
 
-1. Forkez le dépôt.
-2. Créez une nouvelle branche (`git checkout -b feature/votre-nom-de-fonctionnalité`).
-3. Apportez vos modifications.
-4. Commitez vos modifications (`git commit -m 'Ajout de fonctionnalité'`).
-5. Poussez vers la branche (`git push origin feature/votre-nom-de-fonctionnalité`).
-6. Ouvrez une Pull Request.
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature/your-feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add feature'`).
+5. Push to the branch (`git push origin feature/your-feature-name`).
+6. Open a Pull Request.
+
