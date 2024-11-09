@@ -26,6 +26,7 @@ function DemographyGeography() {
           Sa population dépasse les 8,9 millions d'habitants, concentrés principalement sur le Plateau, là où se trouvent les plus grandes agglomérations et centres économiques : Zurich et Genève — qui sont des villes mondiales — puis Bâle et Lausanne (qui abrite le Tribunal fédéral). Toutes accueillent des organisations internationales et, pour les trois premières, un aéroport international.
         </p>
       </div>
+      <img src={suisseGeo} alt="geo de la suisse" className="geo-image"/>
     </div>
   );
 }
